@@ -1,4 +1,4 @@
-# 🎬 Auto Vid
+# 🎬 Auto Vid Video Generator
 
 ### **Automated Video Creation & Publishing Engine**
 
@@ -85,11 +85,11 @@ Auto Vid: Script ✓ → Images ✓ → Voiceover ✓ → Video ✓ → YouTube 
 This is a **private repository**. To get full access:
 
 ### Option 1: Direct Purchase
-📧 **Email**: [YOUR_EMAIL@example.com]  
-💬 **Twitter/X**: [@YOUR_HANDLE]
+📧 **Email**: khohara@gmail.com
+💬 **Twitter/X**: @khohara
 
 ### Option 2: Gumroad
-🛒 **[Buy Now on Gumroad](https://your-gumroad-link.com)** — $199
+🛒 **[Buy Now on Gumroad](https://khohara.gumroad.com/l/autovid)** — $499
 
 After purchase, you'll receive:
 - Invite to the private repository
@@ -100,14 +100,14 @@ After purchase, you'll receive:
 
 ## 🖼️ Preview
 
-> *Add a demo video or screenshots here*
+> *contact on Email for live demo*
 
 ---
 
 ## ❓ FAQ
 
 **Q: Do I need to pay for AI APIs?**  
-A: Yes, you'll need your own API keys (OpenAI, ElevenLabs, etc.). But video generation cost is ~$0.10-0.50 per video.
+A: Depends, you can run all the system on free resourses, for high quality results you'll need your own API keys (OpenAI, ElevenLabs, etc.). But video generation cost is ~$0.10-0.50 per video.
 
 **Q: Can I modify the code?**  
 A: Yes, full source code. Modify however you want.
@@ -121,9 +121,9 @@ A: Due to the digital nature, no refunds. But you can ask questions before buyin
 
 Questions before buying? Reach out:
 
-- 📧 Email: [YOUR_EMAIL@example.com]
-- 🐦 Twitter: [@YOUR_HANDLE]
-- 💼 LinkedIn: [Your Profile]
+- 📧 Email: khohara@gmail.com
+- 🐦 Twitter: @khohara
+- 💼 LinkedIn: linkedin.com/in/nadeem-khohara
 
 ---
 
