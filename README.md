@@ -1,4 +1,4 @@
-# 🎬 Auto Vid Video Generator
+# 🎬 Auto Vid - Video Generator and Auto Posting
 
 ### **Automated Video Creation & Publishing Engine**
 
